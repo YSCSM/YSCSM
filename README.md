@@ -30,7 +30,7 @@ I design AI systems that hold up in regulated, production environments, not just
 
 | Repository | What it shows |
 |---|---|
-| [**Secure Hybrid RAG Platform**](https://github.com/YSCSM/secure-hybrid-rag-architecture) | Reference architecture for production RAG: hybrid retrieval, reranking, caching, guardrails, audit logging, evaluation |
+| [**Secure Hybrid RAG Platform**]([https://github.com/YSCSM/secure-hybrid-rag-architecture](https://github.com/YSCSM/Secure_Hybrid_RAG_Platform_ARCH)) | Reference architecture for production RAG: hybrid retrieval, reranking, caching, guardrails, audit logging, evaluation |
 | [**Multi-Tenant Agentic AI**](https://github.com/YSCSM/agentic-ai-architecture) | Agent orchestration with domain routing, memory and tenant isolation via JWT-scoped vector namespaces |
 
 > Source code for the platform implementations is kept private. These repositories document the architecture, design decisions and evaluation approach. Happy to walk through the implementation in a technical conversation.
